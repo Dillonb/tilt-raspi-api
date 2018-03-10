@@ -2,7 +2,7 @@
 # test BLE Scanning software
 # jcs 6/8/2014
 
-import blescan
+from tiltaccess import blescan
 import sys
 import datetime
 
